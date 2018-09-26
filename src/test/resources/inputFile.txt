@@ -1,0 +1,5 @@
+Arquivo com algumas strings
+para que possamos fazer os replaces
+
+&apos;
+&amp;
