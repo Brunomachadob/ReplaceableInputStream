@@ -8,7 +8,7 @@ deploy:
   provider: releases
   api_key: $githubToken
   file_glob: true
-  file: build/distributions/*
+  file: build/libs/*
   skip_cleanup: true
   on:
     tags: true
